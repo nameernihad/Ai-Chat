@@ -6,7 +6,12 @@ export default {
   ],
   theme: {
     extend: {},
+    colors: {
+      "bgColor":"#343541",
+      "lineColor":"#C5C5D2",
+      "textColor":"#fff"
+    },
   },
-  plugins: [],
+  plugins: []
 }
 
